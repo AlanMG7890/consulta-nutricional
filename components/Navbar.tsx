@@ -3,7 +3,7 @@ export default function Navbar() {
     <nav className="sticky top-0 bg-[#F8F5EE]/90 backdrop-blur-sm z-50">
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
         <h1 className="font-bold text-green-900 text-xl">
-          🌿 Karla Nutrición
+          🌿 Eli Nutrición
         </h1>
 
         <div className="hidden md:flex gap-8 text-green-900">

@@ -8,7 +8,7 @@ export default function AboutSection() {
       <div className="grid md:grid-cols-2 gap-12 items-center">
         <div>
           <Image
-            src="/images/karla.jpeg"
+            src="/images/Karla2.jpeg"
             alt="Karla Elizabeth Santillán Gómez"
             width={600}
             height={700}
