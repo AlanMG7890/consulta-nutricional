@@ -13,7 +13,7 @@ export default function ServicesSection() {
         </p>
 
         <h2 className="text-4xl font-bold text-green-900">
-          ¿Qué incluye la consulta?
+          ¿Qué incluye la consulta? porno?
         </h2>
       </div>
 
