@@ -5,7 +5,7 @@ export default function Hero() {
       <div className="grid md:grid-cols-2 gap-10 items-center">
         <div>
           <p className="text-green-700 font-medium mb-3">
-            🌿 Consulta Nutricional a Domicilio.123
+            🌿 Consulta Nutricional a Domicilio
           </p>
 
           <h1 className="text-5xl font-bold text-green-900 mb-6">
